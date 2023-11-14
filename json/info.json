@@ -1,0 +1,28 @@
+[
+  {
+    "title": "General",
+    "img": "assets/muscle.png"
+  },
+  {
+    "title": "Glutes",
+    "img": "assets/gluteus.png"
+  },
+  {
+    "title": "Abs",
+    "img": "assets/abs.png"
+  },
+  {
+    "title": "Legs",
+    "img": "assets/leg.png"
+  },
+  {
+    "title": "Arms",
+    "img": "assets/arm.png"
+  },
+ 
+  {
+    "title": "Back",
+    "img": "assets/back.png"
+  }
+
+]

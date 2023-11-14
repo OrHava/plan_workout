@@ -1,0 +1,1120 @@
+[
+  {
+    "title": "The Scientific 7-Minute Workout",
+    "type": "General",
+    "exercises": [
+      {
+        "title": "Jumping jacks",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Wall sit",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Push-up",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Abdominal crunch",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Step-up onto chair",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "Squat",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "Triceps dip on chair",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "Plank",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "High knees running in place",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "Lunge",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "Push-up and rotation",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      },
+      {
+        "title": "Side plank",
+        "prelude": 10,
+        "duration": 30
+        ,   "sets": 10
+      }
+    ]
+  },
+  {
+    "title": "Core, Upper-Body, and Glutes",
+    "type": "General",
+    "exercises": [
+      {
+        "title": "Forearm Plank",
+        "prelude": 5,
+        "duration": 180
+        ,   "sets": 1
+      },
+      {
+        "title": "Side Plank (left)",
+        "prelude": 10,
+        "duration": 90
+        ,   "sets": 1
+      },
+      {
+        "title": "Side Plank (right)",
+        "prelude": 10,
+        "duration": 90
+        ,   "sets": 1
+      },
+      {
+        "title": "Forearm Plank",
+        "prelude": 10,
+        "duration": 180
+        ,   "sets": 1
+      },
+      {
+        "title": "Push-Ups",
+        "prelude": 20,
+        "duration": 45
+        ,   "sets": 10
+      },
+      {
+        "title": "Push-Ups",
+        "prelude": 20,
+        "duration": 45
+        ,   "sets": 10
+      },
+      {
+        "title": "Glute Bridge",
+        "prelude": 15,
+        "duration": 180
+        ,   "sets": 10
+      }
+    ]
+  },
+  {
+    "title": "Arms Beginner",
+    "type": "Arms",
+    "exercises": [
+      {
+        "title": "Barebell_Curl",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbbell_Alternate_Biceps_Curl",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbbell_Incline_Biceps_Curl",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbbell_Incline_Hammer_Curl",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Cable_One_Arm_Curl",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbbell_Bench_Press",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Chest_Dips",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Push_Ups",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      }
+    ]
+  },{
+    "title": "Glutes Beginner",
+    "type": "Glutes",
+    "exercises": [
+      {
+        "title": "Smith_Deadlift",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbell_Stiff_Leg_Deadlift",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Lever_Standing_Hip_Extensionn",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbell_Lunge",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Glute_Bridge",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Dumbbell_Single_Leg_Squat",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Lever_Kneeling_Leg_Curl",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      },
+      {
+        "title": "Lever_Horizontal_Leg_Press",
+        "prelude": 10,
+        "duration": 30,
+        "sets": 3
+      }
+    ]
+  }
+,{
+  "title": "Chest Beginner",
+  "type": "General",
+  "exercises": [
+    {
+      "title": "Barbell_Bench_Press",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Dumbbell_Bench_Press",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Push_Ups",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Cable_Lying_Fly_Flat_Bench_Cable_Fly",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Cable_Pull-Down",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Decline_Dumbbell_Ben",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Cable_Front_Raise_2",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Barebell_Decline_Bench_Press",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    }
+  ]
+}
+,
+{
+  "title": "Legs Beginner",
+  "type": "Legs",
+  "exercises": [
+    {
+      "title": "Dumbell_Lunge",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Dumbbell_Single_Leg_Squat",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Lever_Horizontal_Leg_Press",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Lever_Leg_Extension",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Smith_Deadlift_2",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Dumbbell_Single_Leg_Squat",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Barebell_Drag_Curl",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Cable_Front_Raise_2",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    }
+  ]
+}
+,
+
+
+{
+  "title": "Abs Beginner",
+  "type": "Abs",
+  "exercises": [
+    {
+      "title": "Plank",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Russian_Twist",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Leg_Raise",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Crunches",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Hanging_Knee_Raises",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Dumbbell_Side_Bend",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Bicycle_Crunches",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Plank_with_Leg_Raise",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    }
+  ]
+}
+,
+{
+  "title": "Back Beginner",
+  "type": "Back",
+  "exercises": [
+    {
+      "title": "Dumbbell_Bent-over_gym",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Dumbbell_Bent-over_row",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Lever_T-bar_row",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Wide_Grip_Pull-ups",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Cable_Seated_Row",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Cable_Lat_Pull-Down",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Lever_Back_Extension",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    },
+    {
+      "title": "Chin-ups",
+      "prelude": 10,
+      "duration": 30,
+      "sets": 3
+    }
+  ]
+},
+{
+  "title": "Arms Intermediate",
+  "type": "Arms",
+  "exercises": [
+    {
+      "title": "Barbell_Biceps_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Alternate_Biceps_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Incline_Biceps_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Hammer_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Cable_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Triceps_Extension",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Triceps_Dip",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Push-Ups",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    }
+  ]
+}
+,
+{
+  "title": "Glutes Intermediate",
+  "type": "Glutes",
+  "exercises": [
+    {
+      "title": "Smith_Deadlift",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Stiff_Leg_Deadlift",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Lever_Standing_Hip_Extension",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Barbell_Lunges",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Glute_Bridge",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Smith_Squat",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Leg_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Leg_Press",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    }
+  ]
+}
+,
+{
+  "title": "Chest Intermediate",
+  "type": "General",
+  "exercises": [
+    {
+      "title": "Barbell_Bench_Press",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Bench_Press",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Push-Ups",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Cable_Chest_Fly",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Pullover",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Incline_Dumbbell_Press",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Cable_Pressdown",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Barbell_Dips",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    }
+  ]
+}
+,
+{
+  "title": "Legs Intermediate",
+  "type": "Legs",
+  "exercises": [
+    {
+      "title": "Dumbbell_Lunge",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Squat",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Leg_Press",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Leg_Extension",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Smith_Squat",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Lever_Squat",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Cable_Hamstring_Curl",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Barbell_Calf_Raise",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    }
+  ]
+}
+,
+{
+  "title": "Abs Intermediate",
+  "type": "Abs",
+  "exercises": [
+    {
+      "title": "Plank",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Russian_Twist",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Leg_Raise",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Crunches",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Hanging_Knee_Raises",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Side_Bend",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Bicycle_Crunches",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Plank_with_Leg_Raise",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    }
+  ]
+}
+,
+{
+  "title": "Back Intermediate",
+  "type": "Back",
+  "exercises": [
+    {
+      "title": "Dumbbell_Bent-over_gym",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Dumbbell_Bent-over_row",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Lever_T-bar_row",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Wide_Grip_Pull-ups",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Cable_Seated_Row",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Cable_Lat_Pull-Down",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Lever_Back_Extension",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    },
+    {
+      "title": "Chin-ups",
+      "prelude": 10,
+      "duration": 45,
+      "sets": 4
+    }
+  ]
+}
+,
+{
+  "title": "Arms Advanced",
+  "type": "Arms",
+  "exercises": [
+    {
+      "title": "Barbell_Biceps_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Alternate_Biceps_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Incline_Biceps_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Hammer_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Cable_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Triceps_Extension",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Triceps_Dip",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Push-Ups",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    }
+  ]
+}
+,
+{
+  "title": "Glutes Advanced",
+  "type": "Glutes",
+  "exercises": [
+    {
+      "title": "Smith_Deadlift",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Stiff_Leg_Deadlift",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Lever_Standing_Hip_Extension",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Barbell_Lunges",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Glute_Bridge",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Smith_Squat",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Leg_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Leg_Press",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    }
+  ]
+}
+
+
+,
+{
+  "title": "Chest Advanced",
+  "type": "General",
+  "exercises": [
+    {
+      "title": "Barbell_Bench_Press",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Bench_Press",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Push-Ups",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Cable_Chest_Fly",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Pullover",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Incline_Dumbbell_Press",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Cable_Pressdown",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Barbell_Dips",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    }
+  ]
+}
+,
+{
+  "title": "Legs Advanced",
+  "type": "Legs",
+  "exercises": [
+    {
+      "title": "Dumbbell_Lunge",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Dumbbell_Squat",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Leg_Press",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Leg_Extension",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Smith_Squat",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Lever_Squat",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Cable_Hamstring_Curl",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Barbell_Calf_Raise",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    }
+  ]
+}
+,
+{
+  "title": "Abs Advanced",
+  "type": "Abs",
+  "exercises": [
+    {
+      "title": "Plank",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Russian_Twist",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Leg_Raise",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Crunches",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Hanging_Knee_Raise",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Plank_with_Twist",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Bicycle_Crunches",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Mountain_Climbers",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    }
+  ]
+}
+,{
+  "title": "Back Advanced",
+  "type": "Back",
+  "exercises": [
+    {
+      "title": "Barbell_Bent-over_Row",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Pull-Ups",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Deadlift",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "T-Bar_Row",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Lat_Pull-Down",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Seated_Cable_Row",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Hyperextensions",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    },
+    {
+      "title": "Face_Pulls",
+      "prelude": 10,
+      "duration": 60,
+      "sets": 5
+    }
+  ]
+}
+
+
+  
+
+]

@@ -1,0 +1,15 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/beep"
+    /> -->
+
+    <?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/beep @raw/beep2 @raw/female_voice_1 @raw/female_voice_2 @raw/male_voice_1 @raw/male_voice_2">
+    <item name="beep" type="raw">@raw/beep</item>
+    <item name="beep2" type="raw">@raw/beep2</item>
+      <item name="female_voice_1" type="raw">@raw/female_voice_1</item>
+        <item name="female_voice_2" type="raw">@raw/female_voice_2</item>
+          <item name="male_voice_1" type="raw">@raw/male_voice_1</item>
+            <item name="male_voice_2" type="raw">@raw/male_voice_2</item>
+</resources>

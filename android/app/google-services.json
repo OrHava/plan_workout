@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70657147443",
+    "project_id": "planworkout-665f9",
+    "storage_bucket": "planworkout-665f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70657147443:android:e37e71e8442ccf883e5946",
+        "android_client_info": {
+          "package_name": "com.example.plan_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70657147443-4cs5e7s56k71vops0qdpof515bneh64v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7s1Qp37q3prF3yxN_PsekcYp2HZpX_mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70657147443-4cs5e7s56k71vops0qdpof515bneh64v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
