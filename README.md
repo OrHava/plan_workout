@@ -59,5 +59,4 @@ Email: Or6562@gmail.com
 
 
 ------------
-![Workout App Demo](https://i.imgur.com/z0gyO0m.gif)
-<img src="https://i.imgur.com/z0gyO0m.gif" alt="Workout App Demo" style="width: 300px;"/>
+<img src="https://i.imgur.com/z0gyO0m.gif" alt="Workout App Demo" style="width: 200px;"/>
