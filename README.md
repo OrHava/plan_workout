@@ -1,5 +1,4 @@
-# **Plan Workout** ![new_icon_flag](https://user-images.githubusercontent.com/116579286/222563501-cddaf8ce-2f39-4cfe-962a-2d3f736846f3.png)
-
+# **Plan Workout** ![ic_launcher](https://github.com/OrHava/plan_workout/assets/116579286/27f466e6-2351-41ee-bdce-e41304989231)
 ## Overview
 Guess the Flag is a trivia game that challenges players to identify flags from around the world. The game features 11 levels of increasing difficulty, each with 10 questions except for the final level, which has 20. Players have 10 seconds to answer each question before moving on to the next one.
 
