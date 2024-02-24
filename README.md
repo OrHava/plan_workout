@@ -44,7 +44,7 @@ Not sure where to start? Explore a collection of pre-designed workout plans cura
 We're excited to be part of your fitness journey. Let's work towards a healthier and stronger you!
 
 ## Link
-Not ready yet.
+https://play.google.com/store/apps/details?id=com.orhava.plan_workout
 
 ##  Technologies
 - Dart/Flutter
